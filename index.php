@@ -11,7 +11,7 @@ A user-defined function that uses at least two of your variables
 An echo statement to display the results in a heading 2
 An echo statement comparing JavaScript and PHP in a paragraph. */
 
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <meta charset="UTF-8">
 

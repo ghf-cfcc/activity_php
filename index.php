@@ -1,15 +1,3 @@
-/**
-Add the following elements to index.php:
-
-A heading 1 with the text “Exploring Basic PHP Elements”
-A paragraph with your first and last name
-A paragraph with the current date
-Using PHP, include the following:
-
-Define at least three different types of variables (e.g., string, integer, boolean)
-A user-defined function that uses at least two of your variables
-An echo statement to display the results in a heading 2
-An echo statement comparing JavaScript and PHP in a paragraph. */
 
 <!DOCTYPE html>
 <html lang="en">
